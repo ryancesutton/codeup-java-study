@@ -1,5 +1,6 @@
 public class Musician {
 
+    // ON MAIN BRANCH WE WILL REMOVE THIS CLASS AND REVERSE ENGINEER USING ARRAY AS A GUIDE
     private String firstName;
     private String lastName;
     private String genre;

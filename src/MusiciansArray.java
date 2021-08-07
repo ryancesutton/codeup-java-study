@@ -1,4 +1,7 @@
 public class MusiciansArray {
+
+    // ON THE MAIN BRANCH THIS WILL BE DONE FOR THEM IF THEY WANT TO CODE ALONG
+
     public static Musician[] findAll() {
         return new Musician[] {
                 new Musician("Julian", "Lage", "Jazz", "Guitar", true, 33),

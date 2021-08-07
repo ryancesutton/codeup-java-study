@@ -8,6 +8,8 @@ public class MusicianApp {
     // Introduce general overview of methods we might need and
     // introduce the idea behind the switch statement
 
+    // CONTINUALLY ASK QUESTIONS/STUDENT EXPECTATIONS TO FOSTER ENGAGEMENT
+
     public static void main(String[] args) {
         boolean running = true;
 
