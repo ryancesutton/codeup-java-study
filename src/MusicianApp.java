@@ -23,6 +23,12 @@ public class MusicianApp {
 
 
     // Discuss structure of this method and introduce structure of switch case
+
+    // LATER: discuss and demo new features of switch case
+    // ie.
+    // Multiple cases that need the same output
+    // Arrow syntax
+    // Show yield keyword that eliminates need for break;
     private static boolean executeUserChoice(int choice) {
         boolean continueRunningApp = true;
 
